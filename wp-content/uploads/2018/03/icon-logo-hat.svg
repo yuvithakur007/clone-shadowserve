@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="133px" height="131px" viewBox="0 0 133 131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>logo icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-8.2%" y="-6.7%" width="116.4%" height="116.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Design---Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.3---Press-Kit" transform="translate(-166.000000, -659.000000)">
+            <g id="Media-assets-&amp;-fact-sheet" transform="translate(-1.000000, 572.000000)">
+                <g id="Media-assets" transform="translate(173.000000, 64.000000)">
+                    <g id="logo-icon" filter="url(#filter-1)" transform="translate(0.000000, 27.000000)">
+                        <g id="Page-1">
+                            <polygon id="Fill-1" fill="#FEC10E" points="81.0178981 -0.000461538462 41.2758226 10.6610769 36.3060491 34.098 19.2490679 38.6810769 13.8097094 64.3403077 2.34170943 68.9833846 0.000690566038 80.3233846 95.883483 119.161846 121.045408 0.491076923 78.499634 11.9187692"></polygon>
+                            <polygon id="Fill-2" fill="#000000" points="39.2872226 68.3383846 39.3240528 58.3622308 5.84771321 71.9199231 4.62541132 77.8437692 45.948883 94.5814615 55.2070717 78.0837692"></polygon>
+                            <polygon id="Fill-3" fill="#000000" points="70.2142226 77.2073077 69.4914302 104.117308 92.9430528 113.615769 100.253845 79.125 78.1166 70.3811538"></polygon>
+                            <polygon id="Fill-4" fill="#000000" points="65.3655283 84.1744615 58.579566 79.9836923 54.9494906 86.4521538 57.299717 89.7683077 53.7479057 97.7390769 63.9429623 101.867538 63.6621321 88.956"></polygon>
+                            <polygon id="Fill-5" fill="#000000" points="100.432011 25.3283077 101.391898 20.796 53.712917 33.606 68.6337472 22.506 69.4900491 18.4721538 60.7428792 20.8813846 74.9478226 9.44907692 75.7765019 5.53753846 44.7102377 13.8821538 39.7335585 37.3583077 22.6765774 41.9413846 19.2237472 58.2198462 37.0012189 51.0244615 37.8483132 54.8183077 42.6937849 56.9713846 42.6937849 65.376 67.0592566 75.0821538 73.1086151 69.8598462 64.8632566 69.1006154 66.582766 66.4883077 68.7327283 66.5713846 73.1224264 62.6644615 66.3019358 62.2490769 67.9201623 59.5929231 73.7462377 59.9044615 77.2543132 60.6521538 74.2020113 56.136 70.5028792 56.2444615 68.6820868 55.2936923 70.3003132 51.7467692 75.2286528 51.5321538 72.2753321 39.066 74.8764642 35.6829231"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
